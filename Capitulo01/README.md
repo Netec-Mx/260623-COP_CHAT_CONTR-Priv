@@ -124,3 +124,4 @@ Entrégame el código VBA correspondiente bien estructurado.
 ## 8. Resultado Esperado
 
 Al concluir, dispondrás de un archivo `.xlsm` funcional con una tabla estructurada de forma automática, un sistema interactivo de captura de datos con validación ante campos vacíos, y un formateo condicional inteligente ejecutado mediante lenguaje natural.
+![diagrama1](/1.jpg)
