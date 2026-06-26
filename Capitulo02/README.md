@@ -12,13 +12,13 @@
 
 ---
 
-## 2. Descripción Corta
+## 2. Descripción 
 
 En este laboratorio práctico de 90 minutos, aprenderás a utilizar **Copilot Chat** para diseñar un modelo de conciliación contable de forma autosuficiente directamente en la cuadrícula de Microsoft Excel. Guiado por la IA, estructurarás datos de prueba e implementarás fórmulas de verificación cruzada y formatos condicionales para detectar anomalías al instante, sin necesidad de usar código ni macros.
 
 ---
 
-## 3. Objetivos del Laboratorio
+## 3. Objetivos
 
 Al completar este laboratorio, serás capaz de:
 * **Generar escenarios financieros de prueba** usando estructuras Markdown reconocibles por Excel.
