@@ -12,13 +12,13 @@
 
 ---
 
-## 2. Descripción Corta
+## 2. Descripción 
 
 Este laboratorio entrena a los profesionales en las estrategias clave para integrar extracciones masivas e incompatibles de **Oracle** dentro de entornos analíticos utilizando **Microsoft Copilot**. El diseño del ejercicio elimina por completo la necesidad de escribir fórmulas manuales en Excel. El estudiante asume el rol de Orquestador de Datos, forzando a la IA a actuar como un motor ETL (Extracción, Transformación y Carga) dentro del chat. El resultado de cada fase se inyecta directamente en Excel mediante copiado y pegado directo, culminando con una auditoría analítica del flujo de caja.
 
 ---
 
-## 3. Objetivos del Laboratorio
+## 3. Objetivos
 
 Al finalizar este laboratorio, el estudiante será capaz de:
 * **Aplicar estrategias de integración** para procesar volcados de datos planos e impuros de Oracle ERP sin depender de macros ni herramientas externas de desarrollo.
