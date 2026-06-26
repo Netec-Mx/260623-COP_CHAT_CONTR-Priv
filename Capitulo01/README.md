@@ -12,13 +12,13 @@
 
 ---
 
-## 2. Descripción Corta
+## 2. Descripción 
 
 En este laboratorio práctico, los participantes aprenderán a diseñar, refinar y desplegar macros de VBA en Microsoft Excel utilizando instrucciones en lenguaje natural mediante Copilot Chat. El ejercicio adopta un enfoque incremental y estructurado para construir una solución automatizada sin escribir código de forma manual.
 
 ---
 
-## 3. Objetivos del Laboratorio
+## 3. Objetivos 
 
 Al completar este laboratorio, serás capaz de:
 * Configurar e interactuar con el entorno de desarrollo de VBA en Excel.
