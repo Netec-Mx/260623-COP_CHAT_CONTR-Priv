@@ -12,13 +12,13 @@
 
 ---
 
-## 2. Descripción Corta
+## 2. Descripción 
 
 Este laboratorio práctico entrena a los profesionales en el despliegue de prompts avanzados para automatizar la auditoría de registros contables y la validación de sus evidencias documentales asociadas. Utilizando las capacidades de razonamiento conceptual de Microsoft Copilot, los estudiantes estructurarán un entorno de control sin necesidad de programar macros ni escribir fórmulas complejas en Excel. El ejercicio se centra en identificar discrepancias normativas, alertar sobre comportamientos sospechosos en transacciones financieras y compilar resúmenes de hallazgos listos para ser presentados ante la Alta Dirección.
 
 ---
 
-## 3. Objetivos del Laboratorio
+## 3. Objetivos
 
 Al finalizar este laboratorio, el estudiante será capaz de:
 * **Evaluar registros contables complejos** utilizando la IA como un motor de revisión de evidencias basado en reglas de control interno.
