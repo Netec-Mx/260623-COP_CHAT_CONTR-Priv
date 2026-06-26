@@ -47,7 +47,7 @@ Al completar este laboratorio, serás capaz de:
 
 ## 6. Procedimiento Paso a Paso
 
-### Sección A: Configuración Inicial del Entorno (10 minutos)
+### Sección A: Configuración Inicial del Entorno 
 
 1. Abra una aplicación de Microsoft Excel en blanco.
 2. Guarde el archivo inmediatamente con el nombre `Laboratorio_Capitulo1.xlsm` (Libro de Excel habilitado para macros).
@@ -55,7 +55,7 @@ Al completar este laboratorio, serás capaz de:
 4. En la pestaña Programador, haga clic en Visual Basic (o presione Alt + F11).
 5. En el menú del editor de VBA, vaya a Insertar > Módulo.
 ---
-### Sección B: Generación de la Macro Base - Formato y Estructura (15 minutos)
+### Sección B: Generación de la Macro Base - Formato y Estructura 
 
 1. Abra su chat de Copilot.
 2. Copie, pegue y ejecute el siguiente prompt:
@@ -75,7 +75,7 @@ Por favor, proporciona únicamente el código VBA limpio dentro de un bloque de 
 
 ---
 
-### Sección C: Incremento de Complejidad - Lógica de Negocio y Validación (20 minutos)
+### Sección C: Incremento de Complejidad - Lógica de Negocio y Validación 
 
 1. En el mismo chat de Copilot, copie y ejecute el siguiente prompt:
 
@@ -95,7 +95,7 @@ Proporcióname el código VBA optimizado listo para ser agregado al módulo exis
 3. En el editor de VBA, vaya al final del código anterior y pegue esta nueva macro.
 4. Pruebe la macro ejecutando "RegistrarNuevoIncidente" desde Excel.
 
-### Sección D: Desafío de Optimización - Formato Condicional (15 minutos)
+### Sección D: Desafío de Optimización - Formato Condicional 
 
 1. En el mismo chat de Copilot, ingrese el prompt del desafío final:
 
