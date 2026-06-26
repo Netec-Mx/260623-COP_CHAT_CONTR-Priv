@@ -46,7 +46,7 @@ Al completar este laboratorio, serás capaz de:
 
 ## 6. Procedimiento Paso a Paso
 
-### Sección A: Generación Autosuficiente de Datos Contables de Prueba (25 minutos)
+### Sección A: Generación Autosuficiente de Datos Contables de Prueba 
 
 El primer paso consiste en poblar nuestro libro de Excel con un escenario financiero simulado de manera ágil. Le pediremos a Copilot Chat que actúe como un diseñador de datos contables para generar dos estructuras de tabla independientes en la misma hoja de cálculo, inyectando discrepancias intencionales que auditaremos más adelante.
 
@@ -88,7 +88,7 @@ Muestra las tablas directamente en la pantalla del chat (no uses bloques de cód
 
 ---
 
-### Sección B: Construcción del Motor de Conciliación mediante Fórmulas Simples (30 minutos)
+### Sección B: Construcción del Motor de Conciliación mediante Fórmulas Simples
 
 Una vez estructurados los datos directamente en las celdas, utilizaremos una fórmula lógica directa en español para cruzar la información sin riesgo de errores. Usaremos el punto y coma (`;`) como separador para garantizar que sea aceptada por Excel de inmediato.
 
@@ -118,7 +118,7 @@ Por favor, proporcióname las instrucciones y las dos fórmulas exactas en espa�
 
 ---
 
-### Sección C: Formato Condicional y Reto de Adaptación (20 minutos)
+### Sección C: Formato Condicional y Reto de Adaptación 
 
 Para facilitar la auditoría visual, utilizaremos las herramientas de Excel para destacar los errores. Posteriormente, resolverás un reto práctico.
 
@@ -135,7 +135,7 @@ Actúa como diseñador de dashboards en Excel. Necesito resaltar visualmente las
 
 ---
 
-### RECUADRO DEL RETO DE ADAPTACIÓN (Para el Estudiante)
+### RECUADRO DEL RETO DE ADAPTACIÓN 
 
 Para medir tu comprensión en este capítulo, ejecuta el siguiente desafío rápido directamente con tu asistente de IA.
 
